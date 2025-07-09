@@ -2946,15 +2946,15 @@ a:hover {
   background-repeat: no-repeat; }
 
 .IndexPage__drinkMenu {
-  background-image: url("../images/top/menu_drink.jpg"); }
+  background-image: url("./images/top/menu_drink.jpg"); }
 
 .IndexPage__foodMenu {
-  background-image: url("../images/top/menu_food.jpg"); }
+  background-image: url("./images/top/menu_food.jpg"); }
 
 .Campaign__sweets {
   display: block;
   padding: 10% 20px;
-  background-image: url("../images/campaign/sweets.jpg"), linear-gradient(to right, #e4e8ea 0%, #e4e8ea 47%, #f6f8f7 80%, #f6f8f7 100%);
+  background-image: url("./images/campaign/sweets.jpg"), linear-gradient(to right, #e4e8ea 0%, #e4e8ea 47%, #f6f8f7 80%, #f6f8f7 100%);
   background-position: right bottom;
   background-size: cover;
   background-repeat: no-repeat;
