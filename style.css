@@ -2471,8 +2471,7 @@ a:hover {
       width: auto; } }
 
 .l-row {
-  /* 演習 */
-  display: block;
+  display: flex;
   -ms-flex-pack: justify;
       justify-content: space-between;
   -ms-flex-wrap: wrap;
@@ -2954,7 +2953,7 @@ a:hover {
 .Campaign__sweets {
   display: block;
   padding: 10% 20px;
-  background-image: url(), linear-gradient(to right, #e4e8ea 0%, #e4e8ea 47%, #f6f8f7 80%, #f6f8f7 100%);
+  background-image: url("./images/campaign/sweets.jpg"), linear-gradient(to right, #e4e8ea 0%, #e4e8ea 47%, #f6f8f7 80%, #f6f8f7 100%);
   background-position: right bottom;
   background-size: cover;
   background-repeat: no-repeat;
