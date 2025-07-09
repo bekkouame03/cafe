@@ -2954,7 +2954,7 @@ a:hover {
 .Campaign__sweets {
   display: block;
   padding: 10% 20px;
-  background-image: url("./images/campaign/sweets.jpg"), linear-gradient(to right, #e4e8ea 0%, #e4e8ea 47%, #f6f8f7 80%, #f6f8f7 100%);
+  background-image: url(), linear-gradient(to right, #e4e8ea 0%, #e4e8ea 47%, #f6f8f7 80%, #f6f8f7 100%);
   background-position: right bottom;
   background-size: cover;
   background-repeat: no-repeat;
