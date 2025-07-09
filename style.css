@@ -2471,8 +2471,8 @@ a:hover {
       width: auto; } }
 
 .l-row {
-  display: -ms-flexbox;
-  display: flex;
+  /* 演習 */
+  display: block;
   -ms-flex-pack: justify;
       justify-content: space-between;
   -ms-flex-wrap: wrap;
